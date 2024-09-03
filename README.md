@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- I'm a fourth-year CSE student from Vietnamese-German University.<br>- I enjoy experiencing new coding methods and doing projects.<br>- My hobbies are playing games, coding, reading books and listening to music.<br>- 🌱 I’m currently open to internship.<br>- 📂 All of my projects are available at [my Github repositories](https://github.com/Orcaa-or-ak?tab=repositories).</p>
+<p align="left"> ✨ I'm a fourth-year CSE student from Vietnamese-German University.<br> 📚 I enjoy experiencing new coding methods and doing projects.<br> 🎲 My hobbies are playing games, coding, reading books and listening to music.<br> 🌱 I’m currently open to internship.<br> 📂 All of my projects are available at [my Github repositories](https://github.com/Orcaa-or-ak?tab=repositories).</p>
 
 ###
 
